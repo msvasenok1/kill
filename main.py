@@ -21,7 +21,7 @@ def computer(stones):
     else:
         return stones
 
-print('Hello world')
+
 stones = random.randint(4, 30)
 welcome()
 
